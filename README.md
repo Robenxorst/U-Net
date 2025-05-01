@@ -1,3 +1,3 @@
-# U-Net
-Нейронная сеть U-Net для внутренней дефектоскопии трубопровода.  
-Dataset: https://www.kaggle.com/c/severstal-steel-defect-detection
+# Программа обучения нейронной сети U-Net
+Полученная нейронная сеть применяется для поиска дефектов трубопровода.Развернута на плате Nvidia Jetson Nano.
+Для обучения используется датасет от компании Северсталь: https://www.kaggle.com/c/severstal-steel-defect-detection
